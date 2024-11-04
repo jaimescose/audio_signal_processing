@@ -15,3 +15,13 @@ On week #1 we received a quick review on the basic mathematical concepts of audi
 - Convolution
 
 We also covered the basics of Python for audio manupilation.
+
+### Assignment 1
+
+In this assignment we got introduced to: 
+
+- `utilFunttions.py` module in `sms-tools` package
+    - Functions for reading and writing audio files which handles amplitude normalization
+- Basic sample manipulation:
+    - Array indexing and slicing
+    - Down-sampling: we discovered the effects of down-sampling on the quality of the audio signal
